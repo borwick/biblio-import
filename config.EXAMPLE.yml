@@ -1,0 +1,6 @@
+login_url: 'https://seattle.bibliocommons.com/user/login'
+search_placeholder_url: 'https://seattle.bibliocommons.com/search?utf8=%E2%9C%93&t=smart&search_category=keyword&q={}&commit=Search'
+successful_login_url: 'https://seattle.bibliocommons.com/'
+username: 'username-goes-here'
+pin: 'pin-goes-here'
+search_file: 'search-terms.txt'
